@@ -2,7 +2,8 @@ h1 {
     color: rgb(255, 0, 0);
 }
 
-table, td{
+table,
+td {
     border: 3px solid rgb(0, 255, 0);
     justify-content: center;
     text-align: center;
